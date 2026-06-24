@@ -1,4 +1,4 @@
-1111111111111111111111111111111111111111111111ss1
+1
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!1
