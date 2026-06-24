@@ -5,7 +5,7 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com1) scans.
 1
 ```
 brew tap srcclr/srcclr
-brew install srcclr
+brew install srcclr1
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
 ```
